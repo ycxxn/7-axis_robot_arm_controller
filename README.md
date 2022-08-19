@@ -1,7 +1,7 @@
 # 7-axis robot arm controller
 
 ## Controller UI
-<img src="./_tmp/img1.png" width=320 height=240/>
+<img src="./_tmp/img1.png" width=480 height=360/>
 
 ## Demo
 ```
